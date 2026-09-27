@@ -1,0 +1,23 @@
+Start testing: Sep 16 13:09 Hora estándar central (México)
+----------------------------------------------------------
+1/1 Testing: automata_tests
+1/1 Test: automata_tests
+Command: "C:/Users/andre/Documents/nfa_dfa/build/tests.exe"
+Directory: C:/Users/andre/Documents/nfa_dfa/build
+"automata_tests" start time: Sep 16 13:09 Hora estándar central (México)
+Output:
+----------------------------------------------------------
+epsilonClosure (CORRECTO)
+move (CORRECTO)
+subsetConstruction (CORRECTO)
+
+Tests exitosos.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"automata_tests" end time: Sep 16 13:09 Hora estándar central (México)
+"automata_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 16 13:09 Hora estándar central (México)

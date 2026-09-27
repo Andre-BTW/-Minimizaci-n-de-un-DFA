@@ -1,0 +1,6 @@
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/automata.dir
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/nfa_to_dfa.dir
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/tests.dir
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/test.dir
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/edit_cache.dir
+C:/Users/andre/Documents/nfa_dfa/build/CMakeFiles/rebuild_cache.dir
